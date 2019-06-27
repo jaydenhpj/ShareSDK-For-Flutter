@@ -1,5 +1,6 @@
 #import "SharesdkPlugin.h"
-#import <ShareSDK/ShareSDKHeader.h>
+#import <ShareSDK/ShareSDK.h>
+#import <ShareSDK/ShareSDK+Base.h>
 #import <ShareSDKExtension/ShareSDK+Extension.h>
 #import <MOBFoundation/MOBFoundation.h>import 'package:flutter/services.dart';
 #import <objc/message.h>
